@@ -1,0 +1,4 @@
+//huong dan dich va chay
+gcc -c tudien.c
+gcc -g -o run tudien.o libbt.a
+./run
